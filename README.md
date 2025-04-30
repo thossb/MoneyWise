@@ -10,3 +10,6 @@ Fitur Utama:
 Dapatkan kontrol penuh atas keuangan Anda dengan aplikasi ini! Mudah, cepat, dan efisien. </br> </br>
 
 ![image](https://github.com/user-attachments/assets/27e5ca74-9cfb-45a2-ab69-bcba1cad9a31)
+
+PPT : [Canva PPT](https://www.canva.com/design/DAGmGCSs7bs/pQfSrqh5g1tSYZuejHOr6Q/edit?utm_content=DAGmGCSs7bs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) </br>
+Download : [App Download](https://drive.google.com/drive/folders/1LYdzYz9yUlqzLpNL3dJ17bg5ae7qfc60?usp=sharing)
